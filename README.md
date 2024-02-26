@@ -2,6 +2,8 @@
 Program for parsing basic information about ASIC antminer Avalonia version
 
 I tested on Bitmain Antminer T9 +
+            Bitmain Antminer S9k
+            Bitmain Antminer T17e
 
 # Compilation for .NET 5.0 С# 9.0
 <strong><code>$ dotnet build</code></strong>
